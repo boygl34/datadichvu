@@ -1625,12 +1625,7 @@
       "HTLap": "KH",
       "HTPass": "KH"
     },
-    {
-      "a": 1,
-      "b": "Textual content",
-      "createdAt": 1655699247790,
-      "MaSo": "ZfMi-td"
-    },
+    
     {
       "SoThe": "12",
       "BienSoXe": "72A-594.12",
@@ -1653,7 +1648,7 @@
       "CongDoanDongSon": "Chờ SC",
       "TrangThaMaSoongSon": "Chờ SC",
       "NhomSon": "Đình",
-      "createdAt": 1655699605166,
+      "createdAt": 1655699605166
 
     }
   ],
